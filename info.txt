@@ -1,0 +1,11 @@
+Basic components 
+  . View
+  . Text 
+  . Image 
+
+
+RN UI component frameworks 
+    . Native base RN 
+    . React native elements 
+    . UI kitten 
+    . Paper RN
